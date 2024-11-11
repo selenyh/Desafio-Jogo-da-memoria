@@ -4,7 +4,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background-image: url(../images/background-sweets.jpg);
-    background-repeat: repeat-x;
+    background-size: cover;
     user-select: none; 
 }
 
